@@ -35,3 +35,7 @@ li {
   color: #333;
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+.cv {
+  width: 830px; height: 465px; border: 3px solid black; 
+}

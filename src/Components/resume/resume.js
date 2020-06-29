@@ -1,13 +1,16 @@
 import React, { Component } from "react";
 import Pdf from "./CV.pdf";
+import { withRouter } from "react-router";
 import "./resume.css";
 
-export default class Resume extends Component {
+ class Resume extends Component {
   render() {
     return (
-        <div >
-        <a href = {Pdf} >Download Pdf</a>
+      <div>
+        <iframe id='resume' title="pdf" src={Pdf} />{" "}
       </div>
     );
   }
 }
+
+export default withRouter(Resume)

@@ -11,6 +11,7 @@ import Logo from "../images/logo.png";
 import { animateScroll as scroll } from "react-scroll";
 
 import "./app.css";
+import { BrowserRouter } from "react-router-dom";
 
 class App extends Component {
   // constructor(props) {
@@ -39,15 +40,16 @@ class App extends Component {
 
   render() {
     return (
-      <div> 
-        <Nav/>
+      <div>
+          <Nav />
+
         <img
-            src={Logo}
-            className="logo"
-            alt="Logo."
-            onClick={this.scrollToTop}
-          />
-        <LandingPage/>
+          src={Logo}
+          className="logo"
+          alt="Logo."
+          onClick={this.scrollToTop}
+        />
+        <LandingPage />
         {/* <Resume /> */}
         <Projects id="projects" />
         <About id="about" />
