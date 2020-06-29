@@ -12,7 +12,7 @@ class LowerFooter extends Component {
                 <p>Copyright © David Gabrielian 2020</p>
                 <a
                   style={{ fontSize: "25px" }}
-                  href="https://github.com/DavGabrielian/dav-portfolio"
+                  href="https://github.com/DavGabrielian/portfolio"
                   target="_blank"
 
                 >

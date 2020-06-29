@@ -17,7 +17,7 @@ export default class Projects extends Component {
           <div className="row">
             <div class="project-item">
               <a
-                href="https://github.com/DavGabrielian/dav-portfolio"
+                href="https://github.com/DavGabrielian/portfolio"
                 target="_blank"
                 class="portfolio-link"
                 data-toggle="modal"
