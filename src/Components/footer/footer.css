@@ -1,0 +1,56 @@
+.footer-page {
+  padding: 100px 0;
+  text-align: center;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: white;
+  background: linear-gradient(
+    180deg,
+    rgb(65, 65, 65) 0%,
+    rgba(124, 124, 124, 1) 100%,
+    rgba(96, 96, 96, 1) 100%
+  );
+}
+
+.footer-page .find-me {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  line-height: 1.42857143;
+}
+
+.btn-social {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  height: 57px;
+  width: 57px;
+  border-radius: 100%;
+  line-height: 50px;
+}
+
+.btn-outline {
+  position: relative;
+  color: white;
+  font-size: 37px;
+  border: solid 5px white;
+  background: transparent;
+  transition: all 0.3s ease-in-out;
+  margin-top: 15px;
+}
+.list-inline > li {
+  position: relative;
+  display: inline-block;
+  padding-right: 16px;
+  padding-left: 15px;
+}
+
+.p {
+  position: relative;
+  font-size: 20px;
+}
+
+.btn-outline:hover {
+  transform: scale(1.2); 
+ }
+

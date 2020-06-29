@@ -1,0 +1,41 @@
+.about-page {
+  padding: 100px 0;
+  text-align: center;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: white;
+  background: linear-gradient(
+    180deg,
+    rgba(60, 60, 60, 1) 0%,
+    rgba(124, 124, 124, 1) 100%,
+    rgba(96, 96, 96, 1) 100%
+  );
+}
+
+.about-page .about-me {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  line-height: 1.5;
+}
+
+.star-light {
+  position: relative;
+
+  padding: 0;
+  border: none;
+  border-top: solid 5px;
+  text-align: center;
+  max-width: 250px;
+  margin: 25px auto 30px;
+}
+
+.about-paragraph {
+  position: relative;
+
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 25px;
+  line-height: 1.9;
+  margin-left: 17%;
+  margin-right: 17%;
+}

@@ -1,0 +1,37 @@
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin: inherit;
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  padding-right: 7rem;
+  padding-left: 4rem;
+}
+
+.contact-page {
+  padding: 100px 0;
+  
+}
+
+.contact-me {
+  text-align: center;
+  position: relative;
+  line-height: 2;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.contact {
+  text-align: center;
+  position: relative; 
+}
+
+.cont-name {
+  display: grid;
+  font-size: 20px;
+  line-height: 1.6;
+  color: #333;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}

@@ -1,0 +1,71 @@
+.block {
+    position: relative;
+    top: -20px;
+    min-height: 2px;
+    padding-right: 15rem;
+    padding-left: 15rem;
+}
+
+/* .circle {
+  position: relative;
+  border: 8px solid white;
+  height: 265px;
+  border-radius: 50%;
+  width: 255px;
+} */
+
+.img-profile {
+    position: relative;
+    display: flex;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 40%;
+}
+
+.intro-text {
+    position: relative;
+    background-color: black;
+    opacity: 0.65;
+    padding: 4px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20px;
+    display: block;
+    
+}
+
+.name {
+  text-align: center;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: white;
+  opacity: 0.9;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 250%;
+}
+
+.star-light {
+  position: relative;
+  border-top: solid 4px;
+  text-align: center;
+  max-width: 100px;
+  margin: 20px auto 25px;
+  color: white;
+  opacity: 0.9;
+}
+
+.skills {
+  text-align: center;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-size: 1.7em;
+  font-weight: 300;
+  color: white;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}

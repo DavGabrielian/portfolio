@@ -1,0 +1,91 @@
+.project-page {
+  position: relative;
+  padding: 100px 0;
+}
+
+.project-name {
+  position: relative;
+  text-align: center;
+  font-size: 3em;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.star-primary {
+  position: relative;
+  padding: 0;
+  border: none;
+  border-top: solid 5px;
+  text-align: center;
+  max-width: 300px;
+  margin: 25px auto 30px;
+}
+
+.container {
+  padding: 80px  5rem;
+  padding-bottom: 5rem;
+}
+
+.row {
+  position: relative;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(2, 3fr);
+  grid-template-rows: repeat(2, 25vw);
+  grid-gap: 10px;
+  margin: 0 2rem;
+  width: auto;
+}
+
+.img-responsive {
+  position: relative;
+  width: 85%;
+  height: auto;
+  transition: transform 0.5s;
+  margin: 0 auto;
+  border-radius: 15%;
+  border: 8px solid rgb(131, 131, 131);
+  border-bottom: 13px solid rgb(131, 131, 131);
+  box-shadow: 20px 25px 10px grey;
+}
+
+.img-responsive:hover {
+  transform: scale(1.2);
+  opacity: 0.8;
+}
+
+/* .project-item {
+  position: relative;
+  width: 30%;
+  float: left;
+  padding-right: 1px;
+  padding-left: 1px;
+} */
+
+/* .portfolio-link {
+  display: block;
+  position: relative;
+  max-width: 400px;
+  margin: 0 auto;
+  box-shadow: 5px 5px 5px grey;
+} */
+
+/* .caption {
+  background: rgba(71, 59, 231, 0.9);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: all ease 0.5s;
+}
+
+.caption-content {
+  position: absolute;
+  width: 100%;
+  height: 20px;
+  font-size: 20px;
+  text-align: center;
+  top: 50%;
+  margin-top: -12px;
+  color: white;
+} */
