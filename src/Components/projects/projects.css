@@ -44,8 +44,8 @@
   transition: transform 0.5s;
   margin: 0 auto;
   border-radius: 15%;
-  border: 8px solid rgb(131, 131, 131);
-  border-bottom: 13px solid rgb(131, 131, 131);
+  border: 5px solid rgb(131, 131, 131);
+  border-bottom: 6px solid rgb(131, 131, 131);
   box-shadow: 20px 25px 10px grey;
 }
 

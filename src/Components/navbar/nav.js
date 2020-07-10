@@ -10,7 +10,7 @@ class Nav extends Component {
     scroll.scrollTo(700);
   };
   scrollMore = () => {
-    scroll.scrollMore(2910);
+    scroll.scrollMore(2810);
   };
 
   render() {
@@ -25,7 +25,7 @@ class Nav extends Component {
             </li>
             <li>
               <a className="nav-item" onClick={this.scrollMore}>
-                CONTACT | RESUME
+                CONTACT
               </a>
             </li>
           </ul>

@@ -27,16 +27,6 @@ export default class Projects extends Component {
             </div>
             <div class="project-item">
               <a
-                href="https://github.com/DavGabrielian/Star-Wars"
-                target="_blank"
-                class="portfolio-link"
-                data-toggle="modal"
-              >
-                <img src={star} class="img-responsive" alt="picgallery" />
-              </a>
-            </div>
-            <div class="project-item">
-              <a
                 href="https://github.com/DavGabrielian/React-Coin"
                 target="_blank"
                 class="portfolio-link"
@@ -53,6 +43,16 @@ export default class Projects extends Component {
                 data-toggle="modal"
               >
                 <img src={todo} class="img-responsive" alt="picgallery" />
+              </a>
+            </div>
+            <div class="project-item">
+              <a
+                href="https://github.com/DavGabrielian/Star-Wars"
+                target="_blank"
+                class="portfolio-link"
+                data-toggle="modal"
+              >
+                <img src={star} class="img-responsive" alt="picgallery" />
               </a>
             </div>
             <div class="project-item">

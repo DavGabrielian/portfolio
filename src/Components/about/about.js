@@ -11,7 +11,7 @@ export default class About extends Component {
         <p className="about-paragraph">
           Front End Web Developer who is very passionate about learning,
           creating and developing new things. I have taken part in several
-          courses and gained knowledge and experience about HTML/CSS, PHP,
+          courses and gained knowledge and experience about HTML/CSS,
           Javascript, ReactJS, Git, GitHub and also basic/fundamental C/C++,
           PHP, SQL. I am also an engineer - student of NPUA Institute of
           Information and Telecommunication Technologies and Electronics. During

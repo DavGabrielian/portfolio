@@ -41,14 +41,15 @@ class App extends Component {
   render() {
     return (
       <div>
-          <Nav />
-
-        <img
+                <img
           src={Logo}
           className="logo"
           alt="Logo."
           onClick={this.scrollToTop}
         />
+          <Nav />
+
+
         <LandingPage />
         {/* <Resume /> */}
         <Projects id="projects" />

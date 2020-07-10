@@ -30,8 +30,6 @@ export default class Contact extends Component {
                 +(374) 77-365-055
               </p>
             </li>
-        <h2 className="contact-me"> RESUME </h2>
-          <iframe className='cv' id="resume" title="pdf" src={Pdf} />{" "}
           </ul>
         </div>
       </div>

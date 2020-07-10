@@ -26,10 +26,11 @@ nav {
 
 .logo {
   cursor: pointer;
-  width: 13rem;
+  width: 15.5%;
   float: left;
   position: sticky;
   top: 0rem;
+  z-index:1;
 }
 
 .menu-area li {
