@@ -43,9 +43,9 @@
   height: auto;
   transition: transform 0.5s;
   margin: 0 auto;
-  border-radius: 15%;
-  border: 5px solid rgb(131, 131, 131);
-  border-bottom: 6px solid rgb(131, 131, 131);
+  border-radius: 4%;
+  border: 5px solid rgb(100, 100, 100);
+  border-bottom: 5px solid rgb(100, 100, 100);
   box-shadow: 20px 25px 10px grey;
 }
 

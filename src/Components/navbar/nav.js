@@ -10,7 +10,7 @@ class Nav extends Component {
     scroll.scrollTo(700);
   };
   scrollMore = () => {
-    scroll.scrollMore(2810);
+    scroll.scrollMore(2830);
   };
 
   render() {
