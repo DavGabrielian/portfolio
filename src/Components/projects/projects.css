@@ -22,7 +22,7 @@
 }
 
 .container {
-  padding: 80px  5rem;
+  padding: 80px 5rem;
   padding-bottom: 5rem;
 }
 
@@ -32,7 +32,7 @@
   display: grid;
   grid-template-columns: repeat(2, 3fr);
   grid-template-rows: repeat(2, 25vw);
-  grid-gap: 10px;
+  grid-gap: 5px;
   margin: 0 2rem;
   width: auto;
 }
@@ -43,7 +43,7 @@
   height: auto;
   transition: transform 0.5s;
   margin: 0 auto;
-  border-radius: 4%;
+  border-radius: 3%;
   border: 5px solid rgb(100, 100, 100);
   border-bottom: 5px solid rgb(100, 100, 100);
   box-shadow: 20px 25px 10px grey;

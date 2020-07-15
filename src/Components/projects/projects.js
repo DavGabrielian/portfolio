@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import portfolio from "../images/portfolio.PNG";
+import store from "../images/store.PNG";
 import star from "../images/star.PNG";
 import coin from "../images/coin.PNG";
 import todo from "../images/todo.PNG";
@@ -17,12 +17,12 @@ export default class Projects extends Component {
           <div className="row">
             <div class="project-item">
               <a
-                href="https://github.com/DavGabrielian/portfolio"
+                href="https://github.com/DavGabrielian/online-store"
                 target="_blank"
                 class="portfolio-link"
                 data-toggle="modal"
               >
-                <img src={portfolio} class="img-responsive" alt="picgallery" />
+                <img src={store} class="img-responsive" alt="picgallery" />
               </a>
             </div>
             <div class="project-item">
@@ -45,16 +45,7 @@ export default class Projects extends Component {
                 <img src={todo} class="img-responsive" alt="picgallery" />
               </a>
             </div>
-            <div class="project-item">
-              <a
-                href="https://github.com/DavGabrielian/Star-Wars"
-                target="_blank"
-                class="portfolio-link"
-                data-toggle="modal"
-              >
-                <img src={star} class="img-responsive" alt="picgallery" />
-              </a>
-            </div>
+
             <div class="project-item">
               <a
                 href="https://github.com/DavGabrielian/Registration"
@@ -63,6 +54,16 @@ export default class Projects extends Component {
                 data-toggle="modal"
               >
                 <img src={register} class="img-responsive" alt="picgallery" />
+              </a>
+            </div>
+            <div class="project-item">
+              <a
+                href="https://github.com/DavGabrielian/Star-Wars"
+                target="_blank"
+                class="portfolio-link"
+                data-toggle="modal"
+              >
+                <img src={star} class="img-responsive" alt="picgallery" />
               </a>
             </div>
             <div class="project-item">
