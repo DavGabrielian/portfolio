@@ -17,7 +17,7 @@ export default class Projects extends Component {
           <div className="row">
             <div class="project-item">
               <a
-                href="https://github.com/DavGabrielian/online-store"
+                href="https://davgabrielian.github.io/online-store/"
                 target="_blank"
                 class="portfolio-link"
                 data-toggle="modal"
@@ -27,7 +27,7 @@ export default class Projects extends Component {
             </div>
             <div class="project-item">
               <a
-                href="https://github.com/DavGabrielian/React-Coin"
+                href="https://davgabrielian.github.io/React-Coin/"
                 target="_blank"
                 class="portfolio-link"
                 data-toggle="modal"
@@ -37,7 +37,7 @@ export default class Projects extends Component {
             </div>
             <div class="project-item">
               <a
-                href="https://github.com/DavGabrielian/React-Todo/"
+                href="https://davgabrielian.github.io/React-Todo/"
                 target="_blank"
                 class="portfolio-link"
                 data-toggle="modal"
