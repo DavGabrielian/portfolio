@@ -54,6 +54,13 @@
   opacity: 0.8;
 }
 
+.proj-name  {
+  position: relative;
+  font-size: 165%;
+  text-align: center;
+  color: grey;
+} 
+
 /* .project-item {
   position: relative;
   width: 30%;
@@ -77,15 +84,5 @@
   height: 100%;
   opacity: 0;
   transition: all ease 0.5s;
-}
+}*/
 
-.caption-content {
-  position: absolute;
-  width: 100%;
-  height: 20px;
-  font-size: 20px;
-  text-align: center;
-  top: 50%;
-  margin-top: -12px;
-  color: white;
-} */
