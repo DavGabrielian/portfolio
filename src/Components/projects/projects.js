@@ -24,7 +24,7 @@ export default class Projects extends Component {
                 data-toggle="modal"
               >
                 <img src={store} class="img-responsive" alt="picgallery" />
-              <h3 className='proj-name'>Online Store</h3>
+              <h3 className='proj-name'>Online Store(ReactJS)</h3>
               </a>
             </div>
             <div class="project-item">
@@ -38,7 +38,21 @@ export default class Projects extends Component {
                 
               >
                 <img src={coin} class="img-responsive" alt="picgallery" />
-                              <h3 className='proj-name'>React Coin</h3>
+                              <h3 className='proj-name'>React Coin(ReactJS)</h3>
+
+              </a>
+            </div>
+            <div class="project-item">
+              <a
+                href="https://github.com/DavGabrielian/Star-Wars"
+                                style={{textDecoration:'none'}}
+
+                target="_blank"
+                class="portfolio-link"
+                data-toggle="modal"
+              >
+                <img src={star} class="img-responsive" alt="picgallery" />
+                    <h3 className='proj-name'>Star Wars DB(ReactJS)</h3>
 
               </a>
             </div>
@@ -52,7 +66,7 @@ export default class Projects extends Component {
                 data-toggle="modal"
               >
                 <img src={todo} class="img-responsive" alt="picgallery" />
-                              <h3 className='proj-name'>Todo List</h3>
+                              <h3 className='proj-name'>Todo List(ReactJS)</h3>
 
               </a>
             </div>
@@ -67,21 +81,7 @@ export default class Projects extends Component {
                 data-toggle="modal"
               >
                 <img src={register} class="img-responsive" alt="picgallery" />
-                              <h3 className='proj-name'>Registration Forum</h3>
-
-              </a>
-            </div>
-            <div class="project-item">
-              <a
-                href="https://github.com/DavGabrielian/Star-Wars"
-                                style={{textDecoration:'none'}}
-
-                target="_blank"
-                class="portfolio-link"
-                data-toggle="modal"
-              >
-                <img src={star} class="img-responsive" alt="picgallery" />
-                    <h3 className='proj-name'>Star Wars DB</h3>
+                              <h3 className='proj-name'>Registration Forum(PHP)</h3>
 
               </a>
             </div>
@@ -95,7 +95,7 @@ export default class Projects extends Component {
                 data-toggle="modal"
               >
                 <img src={website} class="img-responsive" alt="picgallery" />
-                              <h3 className='proj-name'>Social Network(demo)</h3>
+                              <h3 className='proj-name'>First Project(Vanilla JS)</h3>
 
               </a>
             </div>
